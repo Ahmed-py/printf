@@ -319,10 +319,6 @@ Function That Prints An Integer Begining With 0 And u.
 ### ev_print_func.c
 Function That Returns The Amount Of Indetifiers.
 
-------------
-
-### Authors
-Ahmed eid $ Abdallah Abdeen.
 
 ------------
 
